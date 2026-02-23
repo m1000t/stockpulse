@@ -121,4 +121,4 @@ Pull requests welcome! Ideas for improvement:
 
 ---
 
-*Built with ❤️ and Claude AI*
+
